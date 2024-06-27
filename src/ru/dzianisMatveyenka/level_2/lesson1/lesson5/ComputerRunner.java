@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson1_5;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson5;
 
 public class ComputerRunner {
     public static void main(String[] args) {

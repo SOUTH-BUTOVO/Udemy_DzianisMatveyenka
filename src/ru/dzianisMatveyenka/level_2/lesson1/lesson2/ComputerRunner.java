@@ -1,10 +1,8 @@
-package ru.dzianisMatveyenka.level_2.lesson1_3;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson2;
 
 public class ComputerRunner {
     public static void main(String[] args) {
         Computer computer = new Computer();
-        Computer computer2 = new Computer(2048);
-        Computer computer3 = new Computer(1024, 512);
 
         computer.load();
         System.out.println("------");
@@ -14,11 +12,5 @@ public class ComputerRunner {
         System.out.println("------");
 
         computer.prtState();
-        System.out.println("------");
-
-        computer2.prtState();
-        System.out.println("------");
-
-        computer3.prtState();
     }
 }

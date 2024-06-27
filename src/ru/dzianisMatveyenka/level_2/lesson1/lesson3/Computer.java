@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson1_4;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson3;
 
 public class Computer {
     int ssd = 500;
@@ -19,12 +19,6 @@ public class Computer {
 
     void load() {
         System.out.println("Я загрузился!");
-    }
-    void load(boolean open) {
-        System.out.println("Я загрузился!");
-        if (open) {
-            System.out.println("Я открыл крышку.");
-        }
     }
 
     void prtState() {

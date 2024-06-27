@@ -1,10 +1,10 @@
-package ru.dzianisMatveyenka.level_2.lesson1_3;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson5;
 
 public class Computer {
     int ssd = 500;
     int ram = 1024;
 
-    Computer() {
+    public Computer() {
         System.out.println("Я был создан.");
     }
 
@@ -19,6 +19,12 @@ public class Computer {
 
     void load() {
         System.out.println("Я загрузился!");
+    }
+    void load(boolean open) {
+        System.out.println("Я загрузился!");
+        if (open) {
+            System.out.println("Я открыл крышку.");
+        }
     }
 
     void prtState() {

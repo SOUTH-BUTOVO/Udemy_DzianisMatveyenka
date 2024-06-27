@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson1_1;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson1;
 
 public class TestExample {
     public static void main(String[] args) {

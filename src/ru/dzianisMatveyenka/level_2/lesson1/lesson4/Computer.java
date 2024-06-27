@@ -1,10 +1,10 @@
-package ru.dzianisMatveyenka.level_2.lesson1_5;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson4;
 
 public class Computer {
     int ssd = 500;
     int ram = 1024;
 
-    public Computer() {
+    Computer() {
         System.out.println("Я был создан.");
     }
 

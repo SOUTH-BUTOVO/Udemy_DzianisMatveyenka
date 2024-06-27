@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson1_2;
+package ru.dzianisMatveyenka.level_2.lesson1.lesson2;
 
 public class Computer {
     int ssd = 500;
