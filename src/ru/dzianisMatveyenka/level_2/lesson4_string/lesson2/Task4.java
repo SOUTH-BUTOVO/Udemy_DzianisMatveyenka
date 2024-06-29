@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson4.lesson2;
+package ru.dzianisMatveyenka.level_2.lesson4_string.lesson2;
 
 /** Подсчитать количество всех точек, запятых и восклицательных знаков в строке. */
 

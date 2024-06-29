@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson2.lesson1;
+package ru.dzianisMatveyenka.level_2.lesson2_stack_heap.lesson1;
 
 public class Ssd {
     private int value;

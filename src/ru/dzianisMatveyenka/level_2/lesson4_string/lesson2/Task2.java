@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson4.lesson2;
+package ru.dzianisMatveyenka.level_2.lesson4_string.lesson2;
 
 /** Написать метод, принимающий 2 параметра (строку и слово) и возвращающий true, если
  строка начинается и заканчивается этим словом. */

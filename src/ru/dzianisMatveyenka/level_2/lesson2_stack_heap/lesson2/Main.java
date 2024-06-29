@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson2.lesson2;
+package ru.dzianisMatveyenka.level_2.lesson2_stack_heap.lesson2;
 
 public class Main {
     /** Создать класс, описывающий промежуток времени. Сам промежуток времени должен

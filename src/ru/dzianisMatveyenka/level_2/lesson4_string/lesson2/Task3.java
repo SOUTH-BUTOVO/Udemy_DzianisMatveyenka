@@ -1,4 +1,4 @@
-package ru.dzianisMatveyenka.level_2.lesson4.lesson2;
+package ru.dzianisMatveyenka.level_2.lesson4_string.lesson2;
 
 /** Написать метод, принимающий в качестве параметра (Фамилию, Имя, Отчество) и
  возвращающий инициалы в формате "Ф.И.О.". Учесть, что входные параметры могут быть
